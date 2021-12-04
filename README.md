@@ -16,7 +16,7 @@ Requirements:
 
 Description:
 
-For this Keras Model, I’m going to create a very simple neural networks that learns how to divide these two sets of data.
+For this Keras Model, I’m going to create a very simple neural network that learns how to divide these two sets of data.
 
 I am going to use a test set generator to create these clusters of data.
 
